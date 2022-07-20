@@ -1,0 +1,45 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Doctors Appointment",
+      "day": "July 22nd at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Cricket Match",
+      "day": "July 23rd at 3:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Bank related work",
+      "day": "July 24th at 10:30am",
+      "reminder": false
+    },
+    {
+      "text": "Run",
+      "day": "Morning at 7th June",
+      "reminder": false,
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
