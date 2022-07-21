@@ -1,4 +1,7 @@
 # TaskTracker
+1. After cloning this project, run 'npm install' to install all the required dependencies.
+2. Run 'npm run server' to execute the backend.
+3. Run 'ng serve' to run the project in localhost 4200.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.2.
 
